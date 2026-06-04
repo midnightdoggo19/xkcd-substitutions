@@ -18,4 +18,4 @@ The xkcd-substitutions script is released under the [MIT license](http://opensou
 
 Credits
 -------
-The xkcd-substitutions script was created by [Michał Kowalkowski](https://github.com/michalkow). You can contact me at [kowalkowski.michal@gmail.com](mailto:kowalkowski.michal@gmail.com).
+This form of the xkcd-substitutions script was created by [Midnight Doggo](https://github.com/midnightdoggo19).
